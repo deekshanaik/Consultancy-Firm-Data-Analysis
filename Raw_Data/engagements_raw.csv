@@ -1,0 +1,91 @@
+engagement_id,client_name,practice,lead_consultant,start_date,end_date,project_fee,status,secondary_contact
+ENG-001,Apex Financial  ,Digital,Jordan Reeves,"November 24, 2023","July 2, 2023","$45,000",Active,
+ENG-002,Orion Energy,People & Change,Anika Patel,2025-05-26,03/23/2026,"$68,000",On Hold,
+ENG-003,Vanguard Logistics,Strategy,Tomas Herrera,06/20/2024,2025-12-15,"$230,000",Active,Hannah Firth
+ENG-004,Apex Financial,Operations,Anika Patel,"January 22, 2023",02/28/2024,"$150,000",Active,
+ENG-005,Titan Manufacturing,Operations,Rachel Kim,05/23/2025,"October 21, 2026","$110,000",Completed,
+ENG-006,Titan Manufacturing,Digital,Rachel Kim,01/26/2023,2023-02-07,"$78,000",On Hold,
+ENG-007,Titan Manufacturing,People & Change,Jordan Reeves,2023-04-24,"December 19, 2023","$68,000",Cancelled,
+ENG-008,Vanguard Logistics,,Priya Nambiar,11/06/2023,"February 13, 2023","$55,000",Cancelled,
+ENG-009,Orion Energy,,Marcus Webb,"May 25, 2025","May 14, 2025","$110,000",Cancelled,
+ENG-010,BrightPath Health,Strategy,David Chen,"October 7, 2025",03/18/2025,"$192,000",Active,
+ENG-011,Titan Manufacturing  ,Operations,Anika Patel,10/03/2023,02/25/2024,"$230,000",Completed,
+ENG-012,Titan Manufacturing,People & Change,Anika Patel,"December 7, 2025","November 21, 2025","$320,000",Cancelled,Raj Anand
+ENG-006,Titan Manufacturing,Digital,Rachel Kim,01/26/2023,2023-02-07,"$78,000",On Hold,
+ENG-013,Apex Financial,,Priya Nambiar,"April 19, 2025",12/21/2025,"$62,000",Completed,
+ENG-014,Apex Financial,,Anika Patel,2025-08-07,"October 19, 2025","$88,000",Completed,Hannah Firth
+ENG-015,Vanguard Logistics  ,Operations,Tomas Herrera,2024-12-02,"November 4, 2025","$62,000",Cancelled,Derek Fowler
+ENG-016,Vanguard Logistics  ,Digital,Tomas Herrera,08/08/2024,09/04/2024,"$62,000",Active,Ben Taggart
+ENG-017,Vanguard Logistics,People & Change,Priya Nambiar,01/13/2024,2025-08-10,"$68,000",Cancelled,
+ENG-018,BrightPath Health,,Priya Nambiar,"January 2, 2024","September 6, 2024","$62,000",Active,Derek Fowler
+ENG-019,Orion Energy  ,People & Change,Marcus Webb,"October 20, 2023",07/22/2024,"$78,000",On Hold,Ben Taggart
+ENG-020,BrightPath Health,Operations,Lena Kowalski,2023-01-15,"February 3, 2024","$230,000",Completed,
+ENG-021,Vanguard Logistics,Digital,Rachel Kim,2023-08-27,"October 26, 2024","$192,000",Active,Sophie Tran
+ENG-022,BrightPath Health,,Jordan Reeves,2023-02-24,"May 20, 2023","$125,000",On Hold,
+ENG-023,BrightPath Health,Strategy,Marcus Webb,"May 2, 2024",03/21/2024,"$175,000",Completed,Sophie Tran
+ENG-024,Titan Manufacturing,,Jordan Reeves,"June 19, 2023","March 2, 2023","$200,000",On Hold,Nina Shah
+ENG-025,BrightPath Health,Strategy,Rachel Kim,"October 24, 2024",04/28/2025,"$110,000",Completed,Nina Shah
+ENG-026,Vanguard Logistics,People & Change,Anika Patel,2023-12-04,2024-08-08,"$125,000",Cancelled,
+ENG-027,Vanguard Logistics,People & Change,Rachel Kim,2023-05-12,"November 27, 2023","$230,000",On Hold,Derek Fowler
+ENG-028,BrightPath Health  ,Operations,Priya Nambiar,07/12/2025,"July 20, 2026","$192,000",Active,
+ENG-029,Orion Energy  ,,Tomas Herrera,09/22/2025,"December 22, 2026","$125,000",On Hold,
+ENG-030,BrightPath Health,Strategy,David Chen,"November 14, 2024",2024-05-18,"$95,000",Completed,
+ENG-031,Titan Manufacturing,Operations,Tomas Herrera,"May 10, 2023",10/20/2023,"$250,000",Cancelled,
+ENG-032,Vanguard Logistics,Digital,Marcus Webb,2025-11-21,"April 22, 2025","$200,000",Completed,Camille Rousseau
+ENG-033,Apex Financial  ,Strategy,Lena Kowalski,2025-10-07,"August 13, 2026","$150,000",Completed,Nina Shah
+ENG-034,Apex Financial,People & Change,Priya Nambiar,"February 15, 2023",11/17/2024,"$230,000",On Hold,Raj Anand
+ENG-020,BrightPath Health,Operations,Lena Kowalski,2023-01-15,"February 3, 2024","$230,000",Completed,
+ENG-035,Orion Energy,People & Change,Lena Kowalski,08/15/2025,2026-11-09,"$192,000",Cancelled,Mei-Lin Chow
+ENG-036,Titan Manufacturing  ,Operations,Rachel Kim,2025-02-05,12/05/2025,"$125,000",Active,
+ENG-037,BrightPath Health,Digital,Tomas Herrera,2025-12-01,"January 12, 2025","$200,000",Cancelled,Hannah Firth
+ENG-038,Orion Energy,Digital,Lena Kowalski,07/16/2024,11/22/2024,"$55,000",Completed,Camille Rousseau
+ENG-039,Orion Energy,Strategy,Marcus Webb,"March 28, 2024",2024-05-13,"$250,000",Completed,
+ENG-040,BrightPath Health,People & Change,David Chen,01/24/2024,"June 8, 2024","$75,000",Active,Ben Taggart
+ENG-041,Vanguard Logistics,Digital,Jordan Reeves,2025-02-19,05/25/2025,"$320,000",Completed,Leo Marchand
+ENG-042,Apex Financial,Operations,Marcus Webb,"May 19, 2023","July 13, 2024","$125,000",Active,
+ENG-043,Vanguard Logistics  ,Strategy,Priya Nambiar,2025-07-22,2025-11-11,"$45,000",Cancelled,Derek Fowler
+ENG-044,Titan Manufacturing,People & Change,Jordan Reeves,2023-12-17,"September 25, 2023","$88,000",Cancelled,
+ENG-045,Orion Energy,Strategy,David Chen,2023-08-19,"June 1, 2024","$88,000",On Hold,
+ENG-046,Vanguard Logistics,Operations,David Chen,"September 7, 2023",07/16/2023,"$230,000",Completed,Fatima Al-Rashid
+ENG-047,Titan Manufacturing,,David Chen,12/08/2024,2025-06-16,"$230,000",On Hold,
+ENG-048,Orion Energy,Operations,David Chen,2023-02-24,12/18/2023,"$110,000",Completed,
+ENG-049,Titan Manufacturing,Operations,Marcus Webb,04/12/2024,12/18/2024,"$95,000",On Hold,
+ENG-050,Apex Financial,Digital,Lena Kowalski,10/10/2023,2023-06-06,"$62,000",On Hold,Raj Anand
+ENG-051,Apex Financial,Strategy,Priya Nambiar,10/10/2023,02/18/2024,"$68,000",Completed,Hannah Firth
+ENG-052,Titan Manufacturing,People & Change,David Chen,"January 20, 2025","April 21, 2025","$125,000",On Hold,Camille Rousseau
+ENG-053,Vanguard Logistics  ,,Priya Nambiar,2024-12-20,2024-04-10,"$200,000",Cancelled,
+ENG-054,Vanguard Logistics,Digital,Tomas Herrera,04/21/2025,03/03/2026,"$62,000",Completed,Kyle Brennan
+ENG-055,Orion Energy,People & Change,David Chen,"May 17, 2024","February 20, 2024","$62,000",Cancelled,Kyle Brennan
+ENG-056,BrightPath Health  ,Strategy,David Chen,"March 16, 2023","May 6, 2024","$78,000",Cancelled,Raj Anand
+ENG-043,Vanguard Logistics  ,Strategy,Priya Nambiar,2025-07-22,2025-11-11,"$45,000",Cancelled,Derek Fowler
+ENG-057,Apex Financial,Operations,Marcus Webb,07/23/2024,2024-07-27,"$230,000",Active,
+ENG-058,BrightPath Health,,Tomas Herrera,"November 28, 2023","January 7, 2023","$192,000",On Hold,Raj Anand
+ENG-059,Titan Manufacturing,Digital,David Chen,2025-08-04,10/26/2026,"$150,000",Completed,
+ENG-060,Apex Financial,,Marcus Webb,2023-11-27,12/10/2023,"$192,000",On Hold,
+ENG-061,Titan Manufacturing,Digital,Tomas Herrera,09/24/2025,05/25/2026,"$68,000",On Hold,Sophie Tran
+ENG-062,BrightPath Health,Operations,Lena Kowalski,09/16/2024,2024-09-13,"$140,000",On Hold,Leo Marchand
+ENG-063,Vanguard Logistics,People & Change,Priya Nambiar,2025-08-23,2025-11-26,"$95,000",Cancelled,Camille Rousseau
+ENG-064,Orion Energy,Strategy,Lena Kowalski,08/01/2025,"November 5, 2025","$75,000",Cancelled,Mei-Lin Chow
+ENG-065,BrightPath Health,Strategy,Rachel Kim,"July 11, 2025","August 28, 2026","$230,000",Active,Ben Taggart
+ENG-066,BrightPath Health,People & Change,Marcus Webb,"February 15, 2025",01/02/2026,"$250,000",Active,
+ENG-067,BrightPath Health,People & Change,Jordan Reeves,02/20/2023,2024-04-16,"$78,000",Completed,
+ENG-068,BrightPath Health,People & Change,David Chen,"March 3, 2025",2026-10-10,"$68,000",On Hold,
+ENG-069,BrightPath Health  ,People & Change,Marcus Webb,10/12/2024,"December 10, 2024","$45,000",Cancelled,
+ENG-070,Orion Energy,Strategy,Lena Kowalski,2023-10-26,2023-04-20,"$175,000",Completed,Fatima Al-Rashid
+ENG-071,Apex Financial,Operations,Jordan Reeves,06/24/2024,2024-03-26,"$230,000",On Hold,
+ENG-072,BrightPath Health,People & Change,David Chen,"February 15, 2024",04/28/2024,"$55,000",On Hold,
+ENG-073,Titan Manufacturing  ,People & Change,Rachel Kim,"November 9, 2025","November 12, 2025","$85,000",Completed,
+ENG-074,Orion Energy,Digital,Marcus Webb,"December 10, 2024","March 2, 2024","$62,000",On Hold,Derek Fowler
+ENG-075,Apex Financial,People & Change,Lena Kowalski,2025-12-23,"December 24, 2025","$95,000",Cancelled,Raj Anand
+ENG-062,BrightPath Health,Operations,Lena Kowalski,09/16/2024,2024-09-13,"$140,000",On Hold,Leo Marchand
+ENG-076,Orion Energy,Strategy,Rachel Kim,08/08/2024,2024-11-12,"$230,000",On Hold,
+ENG-077,BrightPath Health  ,,Lena Kowalski,04/21/2025,"January 2, 2025","$250,000",Completed,Kyle Brennan
+ENG-078,Vanguard Logistics  ,Digital,Anika Patel,03/26/2024,"March 5, 2024","$230,000",On Hold,Derek Fowler
+ENG-079,Apex Financial  ,Digital,Rachel Kim,05/02/2023,09/04/2024,"$75,000",Cancelled,
+ENG-080,BrightPath Health,,Anika Patel,"December 26, 2023","August 21, 2023","$45,000",Active,Hannah Firth
+ENG-081,Titan Manufacturing,People & Change,Marcus Webb,10/05/2024,10/21/2024,"$78,000",On Hold,
+ENG-082,Orion Energy,People & Change,Marcus Webb,"November 21, 2023","April 14, 2024","$140,000",Completed,
+ENG-083,Titan Manufacturing,Operations,Tomas Herrera,2025-05-12,08/03/2026,"$75,000",Active,
+ENG-084,Apex Financial,Digital,Priya Nambiar,"September 11, 2025","June 28, 2025","$68,000",Active,Kyle Brennan
+ENG-085,BrightPath Health,Digital,Jordan Reeves,"April 28, 2024",09/12/2024,"$85,000",On Hold,
+ENG-086,Titan Manufacturing,Strategy,David Chen,05/23/2023,2024-06-01,"$110,000",Completed,

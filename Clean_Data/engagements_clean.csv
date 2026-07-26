@@ -1,0 +1,87 @@
+engagement_id,client_name,practice,lead_consultant,start_date,end_date,project_fee,status,secondary_contact
+ENG-001,Apex Financial,Digital,Jordan Reeves,2023-11-24,2023-07-02,45000.0,Active,Not assigned
+ENG-002,Orion Energy,People & Change,Anika Patel,2025-05-26,2026-03-23,68000.0,On Hold,Not assigned
+ENG-003,Vanguard Logistics,Strategy,Tomas Herrera,2024-06-20,2025-12-15,230000.0,Active,Hannah Firth
+ENG-004,Apex Financial,Operations,Anika Patel,2023-01-22,2024-02-28,150000.0,Active,Not assigned
+ENG-005,Titan Manufacturing,Operations,Rachel Kim,2025-05-23,2026-10-21,110000.0,Completed,Not assigned
+ENG-006,Titan Manufacturing,Digital,Rachel Kim,2023-01-26,2023-02-07,78000.0,On Hold,Not assigned
+ENG-007,Titan Manufacturing,People & Change,Jordan Reeves,2023-04-24,2023-12-19,68000.0,Cancelled,Not assigned
+ENG-008,Vanguard Logistics,Unknown,Priya Nambiar,2023-11-06,2023-02-13,55000.0,Cancelled,Not assigned
+ENG-009,Orion Energy,Unknown,Marcus Webb,2025-05-25,2025-05-14,110000.0,Cancelled,Not assigned
+ENG-010,BrightPath Health,Strategy,David Chen,2025-10-07,2025-03-18,192000.0,Active,Not assigned
+ENG-011,Titan Manufacturing,Operations,Anika Patel,2023-10-03,2024-02-25,230000.0,Completed,Not assigned
+ENG-012,Titan Manufacturing,People & Change,Anika Patel,2025-12-07,2025-11-21,320000.0,Cancelled,Raj Anand
+ENG-013,Apex Financial,Unknown,Priya Nambiar,2025-04-19,2025-12-21,62000.0,Completed,Not assigned
+ENG-014,Apex Financial,Unknown,Anika Patel,2025-08-07,2025-10-19,88000.0,Completed,Hannah Firth
+ENG-015,Vanguard Logistics,Operations,Tomas Herrera,2024-12-02,2025-11-04,62000.0,Cancelled,Derek Fowler
+ENG-016,Vanguard Logistics,Digital,Tomas Herrera,2024-08-08,2024-09-04,62000.0,Active,Ben Taggart
+ENG-017,Vanguard Logistics,People & Change,Priya Nambiar,2024-01-13,2025-08-10,68000.0,Cancelled,Not assigned
+ENG-018,BrightPath Health,Unknown,Priya Nambiar,2024-01-02,2024-09-06,62000.0,Active,Derek Fowler
+ENG-019,Orion Energy,People & Change,Marcus Webb,2023-10-20,2024-07-22,78000.0,On Hold,Ben Taggart
+ENG-020,BrightPath Health,Operations,Lena Kowalski,2023-01-15,2024-02-03,230000.0,Completed,Not assigned
+ENG-021,Vanguard Logistics,Digital,Rachel Kim,2023-08-27,2024-10-26,192000.0,Active,Sophie Tran
+ENG-022,BrightPath Health,Unknown,Jordan Reeves,2023-02-24,2023-05-20,125000.0,On Hold,Not assigned
+ENG-023,BrightPath Health,Strategy,Marcus Webb,2024-05-02,2024-03-21,175000.0,Completed,Sophie Tran
+ENG-024,Titan Manufacturing,Unknown,Jordan Reeves,2023-06-19,2023-03-02,200000.0,On Hold,Nina Shah
+ENG-025,BrightPath Health,Strategy,Rachel Kim,2024-10-24,2025-04-28,110000.0,Completed,Nina Shah
+ENG-026,Vanguard Logistics,People & Change,Anika Patel,2023-12-04,2024-08-08,125000.0,Cancelled,Not assigned
+ENG-027,Vanguard Logistics,People & Change,Rachel Kim,2023-05-12,2023-11-27,230000.0,On Hold,Derek Fowler
+ENG-028,BrightPath Health,Operations,Priya Nambiar,2025-07-12,2026-07-20,192000.0,Active,Not assigned
+ENG-029,Orion Energy,Unknown,Tomas Herrera,2025-09-22,2026-12-22,125000.0,On Hold,Not assigned
+ENG-030,BrightPath Health,Strategy,David Chen,2024-11-14,2024-05-18,95000.0,Completed,Not assigned
+ENG-031,Titan Manufacturing,Operations,Tomas Herrera,2023-05-10,2023-10-20,250000.0,Cancelled,Not assigned
+ENG-032,Vanguard Logistics,Digital,Marcus Webb,2025-11-21,2025-04-22,200000.0,Completed,Camille Rousseau
+ENG-033,Apex Financial,Strategy,Lena Kowalski,2025-10-07,2026-08-13,150000.0,Completed,Nina Shah
+ENG-034,Apex Financial,People & Change,Priya Nambiar,2023-02-15,2024-11-17,230000.0,On Hold,Raj Anand
+ENG-035,Orion Energy,People & Change,Lena Kowalski,2025-08-15,2026-11-09,192000.0,Cancelled,Mei-Lin Chow
+ENG-036,Titan Manufacturing,Operations,Rachel Kim,2025-02-05,2025-12-05,125000.0,Active,Not assigned
+ENG-037,BrightPath Health,Digital,Tomas Herrera,2025-12-01,2025-01-12,200000.0,Cancelled,Hannah Firth
+ENG-038,Orion Energy,Digital,Lena Kowalski,2024-07-16,2024-11-22,55000.0,Completed,Camille Rousseau
+ENG-039,Orion Energy,Strategy,Marcus Webb,2024-03-28,2024-05-13,250000.0,Completed,Not assigned
+ENG-040,BrightPath Health,People & Change,David Chen,2024-01-24,2024-06-08,75000.0,Active,Ben Taggart
+ENG-041,Vanguard Logistics,Digital,Jordan Reeves,2025-02-19,2025-05-25,320000.0,Completed,Leo Marchand
+ENG-042,Apex Financial,Operations,Marcus Webb,2023-05-19,2024-07-13,125000.0,Active,Not assigned
+ENG-043,Vanguard Logistics,Strategy,Priya Nambiar,2025-07-22,2025-11-11,45000.0,Cancelled,Derek Fowler
+ENG-044,Titan Manufacturing,People & Change,Jordan Reeves,2023-12-17,2023-09-25,88000.0,Cancelled,Not assigned
+ENG-045,Orion Energy,Strategy,David Chen,2023-08-19,2024-06-01,88000.0,On Hold,Not assigned
+ENG-046,Vanguard Logistics,Operations,David Chen,2023-09-07,2023-07-16,230000.0,Completed,Fatima Al-Rashid
+ENG-047,Titan Manufacturing,Unknown,David Chen,2024-12-08,2025-06-16,230000.0,On Hold,Not assigned
+ENG-048,Orion Energy,Operations,David Chen,2023-02-24,2023-12-18,110000.0,Completed,Not assigned
+ENG-049,Titan Manufacturing,Operations,Marcus Webb,2024-04-12,2024-12-18,95000.0,On Hold,Not assigned
+ENG-050,Apex Financial,Digital,Lena Kowalski,2023-10-10,2023-06-06,62000.0,On Hold,Raj Anand
+ENG-051,Apex Financial,Strategy,Priya Nambiar,2023-10-10,2024-02-18,68000.0,Completed,Hannah Firth
+ENG-052,Titan Manufacturing,People & Change,David Chen,2025-01-20,2025-04-21,125000.0,On Hold,Camille Rousseau
+ENG-053,Vanguard Logistics,Unknown,Priya Nambiar,2024-12-20,2024-04-10,200000.0,Cancelled,Not assigned
+ENG-054,Vanguard Logistics,Digital,Tomas Herrera,2025-04-21,2026-03-03,62000.0,Completed,Kyle Brennan
+ENG-055,Orion Energy,People & Change,David Chen,2024-05-17,2024-02-20,62000.0,Cancelled,Kyle Brennan
+ENG-056,BrightPath Health,Strategy,David Chen,2023-03-16,2024-05-06,78000.0,Cancelled,Raj Anand
+ENG-057,Apex Financial,Operations,Marcus Webb,2024-07-23,2024-07-27,230000.0,Active,Not assigned
+ENG-058,BrightPath Health,Unknown,Tomas Herrera,2023-11-28,2023-01-07,192000.0,On Hold,Raj Anand
+ENG-059,Titan Manufacturing,Digital,David Chen,2025-08-04,2026-10-26,150000.0,Completed,Not assigned
+ENG-060,Apex Financial,Unknown,Marcus Webb,2023-11-27,2023-12-10,192000.0,On Hold,Not assigned
+ENG-061,Titan Manufacturing,Digital,Tomas Herrera,2025-09-24,2026-05-25,68000.0,On Hold,Sophie Tran
+ENG-062,BrightPath Health,Operations,Lena Kowalski,2024-09-16,2024-09-13,140000.0,On Hold,Leo Marchand
+ENG-063,Vanguard Logistics,People & Change,Priya Nambiar,2025-08-23,2025-11-26,95000.0,Cancelled,Camille Rousseau
+ENG-064,Orion Energy,Strategy,Lena Kowalski,2025-08-01,2025-11-05,75000.0,Cancelled,Mei-Lin Chow
+ENG-065,BrightPath Health,Strategy,Rachel Kim,2025-07-11,2026-08-28,230000.0,Active,Ben Taggart
+ENG-066,BrightPath Health,People & Change,Marcus Webb,2025-02-15,2026-01-02,250000.0,Active,Not assigned
+ENG-067,BrightPath Health,People & Change,Jordan Reeves,2023-02-20,2024-04-16,78000.0,Completed,Not assigned
+ENG-068,BrightPath Health,People & Change,David Chen,2025-03-03,2026-10-10,68000.0,On Hold,Not assigned
+ENG-069,BrightPath Health,People & Change,Marcus Webb,2024-10-12,2024-12-10,45000.0,Cancelled,Not assigned
+ENG-070,Orion Energy,Strategy,Lena Kowalski,2023-10-26,2023-04-20,175000.0,Completed,Fatima Al-Rashid
+ENG-071,Apex Financial,Operations,Jordan Reeves,2024-06-24,2024-03-26,230000.0,On Hold,Not assigned
+ENG-072,BrightPath Health,People & Change,David Chen,2024-02-15,2024-04-28,55000.0,On Hold,Not assigned
+ENG-073,Titan Manufacturing,People & Change,Rachel Kim,2025-11-09,2025-11-12,85000.0,Completed,Not assigned
+ENG-074,Orion Energy,Digital,Marcus Webb,2024-12-10,2024-03-02,62000.0,On Hold,Derek Fowler
+ENG-075,Apex Financial,People & Change,Lena Kowalski,2025-12-23,2025-12-24,95000.0,Cancelled,Raj Anand
+ENG-076,Orion Energy,Strategy,Rachel Kim,2024-08-08,2024-11-12,230000.0,On Hold,Not assigned
+ENG-077,BrightPath Health,Unknown,Lena Kowalski,2025-04-21,2025-01-02,250000.0,Completed,Kyle Brennan
+ENG-078,Vanguard Logistics,Digital,Anika Patel,2024-03-26,2024-03-05,230000.0,On Hold,Derek Fowler
+ENG-079,Apex Financial,Digital,Rachel Kim,2023-05-02,2024-09-04,75000.0,Cancelled,Not assigned
+ENG-080,BrightPath Health,Unknown,Anika Patel,2023-12-26,2023-08-21,45000.0,Active,Hannah Firth
+ENG-081,Titan Manufacturing,People & Change,Marcus Webb,2024-10-05,2024-10-21,78000.0,On Hold,Not assigned
+ENG-082,Orion Energy,People & Change,Marcus Webb,2023-11-21,2024-04-14,140000.0,Completed,Not assigned
+ENG-083,Titan Manufacturing,Operations,Tomas Herrera,2025-05-12,2026-08-03,75000.0,Active,Not assigned
+ENG-084,Apex Financial,Digital,Priya Nambiar,2025-09-11,2025-06-28,68000.0,Active,Kyle Brennan
+ENG-085,BrightPath Health,Digital,Jordan Reeves,2024-04-28,2024-09-12,85000.0,On Hold,Not assigned
+ENG-086,Titan Manufacturing,Strategy,David Chen,2023-05-23,2024-06-01,110000.0,Completed,Not assigned

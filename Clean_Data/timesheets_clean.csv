@@ -1,0 +1,57 @@
+entry_id,consultant_name,engagement_id,week_ending,hours_logged,billable,notes
+TS-001,Tomas Herrera,ENG-004,2024-11-08,34.1,No,Risk assessment
+TS-002,Tomas Herrera,ENG-038,2025-01-24,15.9,No,None
+TS-003,Marcus Webb,ENG-076,2024-11-01,31.0,Yes,Documentation
+TS-004,Tomas Herrera,ENG-034,2024-11-22,34.5,No,Change management planning
+TS-005,Tomas Herrera,ENG-073,2024-12-20,24.7,Yes,Requirements gathering
+TS-006,Anika Patel,ENG-001,2024-11-22,15.0,No,Weekly status update
+TS-007,David  Chen,Unknown,2024-12-20,34.1,Yes,Weekly status update
+TS-008,Tomas Herrera,ENG-069,2025-02-07,30.7,No,Stakeholder interviews
+TS-009,Tomas Herrera,Unknown,2024-11-01,21.8,No,Executive presentation prep
+TS-010,Tomas Herrera,ENG-052,2024-11-29,7.0,Yes,Executive presentation prep
+TS-011,Jordan Reeves,ENG-085,2025-02-14,17.6,Yes,Data analysis
+TS-012,Anika Patel,ENG-011,2024-12-13,39.4,No,Internal team sync
+TS-013,Rachel Kim,Unknown,2025-01-17,6.9,No,Draft deliverable review
+TS-014,Rachel Kim,ENG-079,2025-02-07,8.4,No,Weekly status update
+TS-015,David Chen,ENG-080,2024-11-08,9.6,Yes,Documentation
+TS-016,Lena Kowalski,ENG-079,2025-01-17,44.4,No,Executive presentation prep
+TS-017,Jordan Reeves,ENG-077,2024-11-29,-5.5,No,Sprint retrospective
+TS-018,Marcus Webb,ENG-008,2024-12-06,37.8,No,Stakeholder interviews
+TS-019,Tomas Herrera,ENG-006,2024-12-20,41.1,No,Draft deliverable review
+TS-020,Rachel Kim,ENG-008,2024-12-20,6.5,No,Stakeholder interviews
+TS-021,Jordan Reeves,ENG-055,2025-01-03,24.5,Yes,Change management planning
+TS-022,Rachel Kim,ENG-042,2025-01-17,27.7,No,Stakeholder interviews
+TS-023,Rachel Kim,ENG-035,2024-11-29,33.1,No,Weekly status update
+TS-024,Rachel Kim,ENG-043,2024-11-29,43.6,Yes,Weekly status update
+TS-025,Marcus Webb,ENG-041,2025-02-07,7.5,No,Stakeholder interviews
+TS-026,Tomas Herrera,Unknown,2024-11-29,9.8,No,Executive presentation prep
+TS-027,Lena Kowalski,ENG-019,2024-11-08,14.7,No,Sprint retrospective
+TS-028,Priya Nambiar,ENG-076,2024-11-15,27.7,Yes,Process mapping workshop
+TS-029,Jordan Reeves,ENG-021,2025-01-24,20.8,Yes,Change management planning
+TS-030,Anika Patel,ENG-056,2024-11-22,25.0,Yes,Training session delivery
+TS-031,Anika Patel,ENG-055,2024-12-20,35.1,Yes,Sprint retrospective
+TS-032,Tomas Herrera,ENG-075,2024-11-15,39.5,Yes,Training session delivery
+TS-033,Rachel Kim,Unknown,2025-02-07,24.2,No,Proposal development
+TS-034,Marcus Webb,ENG-063,2024-11-15,37.7,No,Internal team sync
+TS-035,Lena Kowalski,ENG-052,2024-11-01,19.0,No,Internal team sync
+TS-036,Tomas Herrera,ENG-004,2024-12-06,42.0,No,Weekly status update
+TS-037,Jordan Reeves,ENG-058,2025-01-24,37.7,Yes,Documentation
+TS-038,Priya Nambiar,Unknown,2024-11-22,37.9,No,None
+TS-039,Tomas Herrera,ENG-037,2024-11-08,4.1,Yes,None
+TS-040,Lena Kowalski,ENG-061,2025-01-10,25.1,No,None
+TS-041,Anika Patel,ENG-001,2025-01-10,-5.4,Yes,Stakeholder interviews
+TS-042,Rachel Kim,ENG-062,2025-01-31,44.5,No,Client kickoff meeting
+TS-043,Tomas Herrera,Unknown,2024-12-13,44.2,Yes,Client kickoff meeting
+TS-044,Rachel Kim,ENG-081,2025-01-17,6.5,No,Executive presentation prep
+TS-045,Jordan Reeves,ENG-079,2024-11-15,37.7,Yes,Training session delivery
+TS-046,Jordan Reeves,Unknown,2025-01-31,42.6,Yes,Proposal development
+TS-047,Anika Patel,ENG-006,2024-12-06,42.1,No,Risk assessment
+TS-048,Lena  Kowalski,ENG-024,2024-11-29,17.3,Yes,Executive presentation prep
+TS-049,David Chen,ENG-050,2025-01-24,20.9,Yes,Executive presentation prep
+TS-050,Jordan Reeves,ENG-064,2024-11-29,36.4,Yes,Stakeholder interviews
+TS-051,Tomas Herrera,ENG-067,2024-11-29,15.8,No,Executive presentation prep
+TS-052,David Chen,ENG-053,2024-11-15,31.7,No,Documentation
+TS-053,Priya Nambiar,ENG-062,2024-12-13,13.8,Yes,Stakeholder interviews
+TS-054,Tomas Herrera,ENG-083,2024-11-15,43.0,Yes,None
+TS-055,Lena Kowalski,Unknown,2025-01-31,29.7,No,Risk assessment
+TS-056,Priya Nambiar,ENG-046,2024-12-06,21.1,No,None
